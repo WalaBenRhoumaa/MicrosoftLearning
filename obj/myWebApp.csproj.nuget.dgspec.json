@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\BAZ INFO\\myWebApp\\myWebApp.csproj": {}
+    "C:\\Users\\BAZ INFO\\myWebApp\\myWebApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\BAZ INFO\\myWebApp\\myWebApp.csproj": {
+    "C:\\Users\\BAZ INFO\\myWebApp\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\BAZ INFO\\myWebApp\\myWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\BAZ INFO\\myWebApp\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "c:\\Users\\BAZ INFO\\myWebApp\\myWebApp.csproj",
+        "projectPath": "C:\\Users\\BAZ INFO\\myWebApp\\myWebApp.csproj",
         "packagesPath": "C:\\Users\\BAZ INFO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\BAZ INFO\\myWebApp\\obj\\",
+        "outputPath": "C:\\Users\\BAZ INFO\\myWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BAZ INFO\\AppData\\Roaming\\NuGet\\NuGet.Config"
